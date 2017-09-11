@@ -23,4 +23,7 @@
 ## Семинары:
 
 __Семинар 1.__ Введение в машинное обучение и основные библитотеки для анализа с данными.
-* [Презентация](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/presentation_sem1.pdf)
+* [Презентация]()
+* Материалы по python:
+    * [Онлайн-книга dive into python](http://ru.diveintopython.net/)
+    * [Официальный туториал](https://docs.python.org/3/tutorial/)
