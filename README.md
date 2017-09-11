@@ -28,12 +28,10 @@ __Семинар 1.__ Введение в машинное обучение и �
     * [Официальный туториал](https://docs.python.org/3/tutorial/)
     * [Онлайн-книга dive into python](http://ru.diveintopython.net/)
 * Материалы по numpy:
-    * [Ноутбук с прошлогоднего семинара: numpy, pandas, matplotlib](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/sem.01.ipynb)
+    * [Ноутбук с прошлогоднего семинара: numpy, pandas, matplotlib __MUSTREAD__](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/sem.01.ipynb)
     * [Англоязычный подробный туториал по numpy](http://nbviewer.jupyter.org/github/Atlas7/scipy-tentative-numpy-tutorials/blob/master/tentative-numpy-tutorial.ipynb)
     * [Вводный ноутбук - более подробно основы](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Sem2_NumPy.ipynb)
 *  Материалы по pandas:
-    * [Прошлогодний подробный ноутбук-туториал про pandas](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Seminar3_pandas.ipynb)
     * [Официальная документация pandas - подробнейшие туториалы на английском](http://pandas.pydata.org/pandas-docs/stable/10min.html)
-    * [Лекция на Курсере про pandas - 1](https://www.coursera.org/learn/mathematics-and-python/lecture/rcjAW/pandas-data-frame)
-    * [Лекция на Курсере про pandas - 2](https://www.coursera.org/learn/mathematics-and-python/lecture/lsXAR/pandas-indieksatsiia-i-sieliektsiia)
+    * [Подробный ноутбук-туториал про pandas с майнора](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Seminar3_pandas.ipynb)
 
