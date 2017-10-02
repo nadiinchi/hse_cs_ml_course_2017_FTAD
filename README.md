@@ -45,6 +45,7 @@ __Семинар 1.__ Введение в машинное обучение и �
 *  Материалы по pandas:
     * [Официальная документация pandas - подробнейшие туториалы на английском](http://pandas.pydata.org/pandas-docs/stable/10min.html)
     * [Подробный ноутбук-туториал про pandas с майнора](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Seminar3_pandas.ipynb)
+    * [Задачи по numpy и pandas](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/HomeWork1_.ipynb)
 
 __Семинар 2.__ Обучение линейной регрессии
 * [Материалы семинара](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem02-linregr-part1.pdf)
