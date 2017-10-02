@@ -60,5 +60,4 @@ __Семинар 4.__ Задача про ранний останов. Метр�
 * [Материалы по AUC ROC (закончим на след. семинаре)](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem04-linclass-metrics.pdf)
 * [Решение задачи по ранний останов (ссылка скоро появится)]()
 * [Блог пост про кривую точность-полнота](https://classeval.wordpress.com/introduction/introduction-to-the-precision-recall-plot/)
-* [Материалы по AUC ROC (продолжим на след. семинаре)](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem04-linclass-metrics.pdf)
 * [Домашнее задание](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/homeworks-theory/homework-theory-03-linclass-metrics.pdf) (задачи 1, 3)
