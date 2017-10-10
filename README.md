@@ -58,6 +58,11 @@ __Семинар 3.__ Функции потерь в регрессии.
 
 __Семинар 4.__ Задача про ранний останов. Метрики качества бинарной классификации
 * [Материалы по AUC ROC (закончим на след. семинаре)](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem04-linclass-metrics.pdf)
-* [Решение задачи по ранний останов (ссылка скоро появится)]()
+* [Решение задачи по ранний останов](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/sem05.pdf)
 * [Блог пост про кривую точность-полнота](https://classeval.wordpress.com/introduction/introduction-to-the-precision-recall-plot/)
 * [Домашнее задание](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/homeworks-theory/homework-theory-03-linclass-metrics.pdf) (задачи 1, 3)
+
+__Семинар 5.__ Задача про ранний останов. Метрики качества бинарной классификации
+* [Материалы по AUC ROC](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem04-linclass-metrics.pdf)
+* [Материалы по корректному предсказанию вероятностей](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/sem05.pdf)
+* [Домашнее задание](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/homeworks-theory/homework-theory-03-linclass-metrics.pdf) (задачи 2, 4), [Еще домашнее задание](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/homeworks-theory/homework-theory-04-linclass.pdf) (задачи 1-3)
