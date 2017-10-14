@@ -70,5 +70,5 @@ __Семинар 5.__ Окончание семинара про ROC-криву�
 * [Материалы по корректному предсказанию вероятностей](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/sem05.pdf)
 * [Домашнее задание](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/homeworks-theory/homework-theory-03-linclass-metrics.pdf) (задачи 2, 4), [Еще домашнее задание](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/homeworks-theory/homework-theory-04-linclass.pdf) (задачи 1-3)
 
-__Дополнительный семинар по программированию.__ Matplotlib & seaborn, sklern
+__Дополнительный семинар по программированию.__ Matplotlib & seaborn, sklearn
 * [Ноутбук с семинара](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/Seminar_sklearn.ipynb)
