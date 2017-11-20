@@ -77,8 +77,15 @@ __Семинар 6. Защита домашних работ__
 
 __Семинар 7.__ Метрические методы
 * [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem-knn.pdf)
-* [Домашнее задание (скоро появится)]()
 
 __Семинар 8.__ Решающие деревья
-* [Конспект (скоро появится)]()
+* [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem07-trees.ipynb)
 * [практическое задание](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D0%B0%208.ipynb)
+* [Домашнее задание](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/homeworks-theory/homework-theory-05-knn-trees.pdf)
+
+__Семинар 9.__ Разложение на смещение и разброс.
+* [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem08_bvd.pdf)
+* [Домашнее задание](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/homeworks-theory/homework-theory-06-bvd.pdf)
+
+__Семинар 10.__ Градиентный бустинг.
+* [Практическое задание](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/TaskSem9_tree_correlation.ipynb)
