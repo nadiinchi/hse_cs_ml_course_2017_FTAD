@@ -85,7 +85,7 @@ __Семинар 8.__ Решающие деревья
 
 __Семинар 9.__ Разложение на смещение и разброс.
 * [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem08_bvd.pdf)
-* [Домашнее задание](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/homeworks-theory/homework-theory-06-bvd.pdf)
+* [Домашнее задание](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/homeworks-theory/homework-theory-06-bvd.pdf) (задачи 1, 2, 4)
 
 __Семинар 10.__ Градиентный бустинг.
 * [Практическое задание](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/TaskSem9_tree_correlation.ipynb)
