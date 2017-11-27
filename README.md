@@ -89,3 +89,6 @@ __Семинар 9.__ Разложение на смещение и разбро
 
 __Семинар 10.__ Градиентный бустинг.
 * [Практическое задание](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/TaskSem9_tree_correlation.ipynb)
+
+__Семинар 11.__ Обзор композиционных методов, их настройка.
+* [Практическое задание](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/compositions_practice.ipynb)
