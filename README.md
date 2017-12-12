@@ -89,6 +89,19 @@ __Семинар 9.__ Разложение на смещение и разбро
 
 __Семинар 10.__ Градиентный бустинг.
 * [Практическое задание](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/TaskSem9_tree_correlation.ipynb)
+* [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem09-gbm-part1.pdf)
+* [Домашнее задание](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/homeworks-theory/homework-theory-07-nn.pdf)
 
 __Семинар 11.__ Обзор композиционных методов, их настройка.
 * [Практическое задание](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/compositions_practice.ipynb)
+* [Ноутбук с визуализациями и рекомендациями по настройке гиперпараметров](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/Trees_parameters.ipynb)
+* [Домашнее задание](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/homeworks-theory/homework-theory-06-bvd.pdf) (задача 3)
+* [Курс Дьяконова А. Г. с большим числом материалов по теме](http://www.machinelearning.ru/wiki/index.php?title=%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B%2C_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%2C_%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D1%8B_%28%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%2C_%D0%AE.%D0%98._%D0%96%D1%83%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%B2%2C_%D0%90.%D0%93._%D0%94%D1%8C%D1%8F%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2%29)
+
+__Семинар 12.__ Нейронные сети
+* [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem10-nn-part1.pdf)
+* [Домашнее задание](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/homeworks-theory/homework-theory-07-nn.pdf)
+
+__Семинар 13.__ Визуализация данных, методы генерации признаков
+* [Презентация](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/presentation_vis_features.pdf)
+* [Домашнее задание (по кластеризации на основе материала лекций)](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/homeworks-theory/homework-theory-08-unsupervised.pdf)
