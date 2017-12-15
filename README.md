@@ -105,3 +105,6 @@ __Семинар 12.__ Нейронные сети
 __Семинар 13.__ Визуализация данных, методы генерации признаков
 * [Презентация](https://github.com/nadiinchi/hse_cs_ml_course_2017_FTAD/blob/master/materials/presentation_vis_features.pdf)
 * [Домашнее задание (по кластеризации на основе материала лекций)](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/homeworks-theory/homework-theory-08-unsupervised.pdf)
+* [Классная статья в блоге А.Дьяконова о визуализации](https://alexanderdyakonov.wordpress.com/2017/10/30/%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1/)
+* [Пример визуализации с текущего соревнвоания на Кегл](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-zillow-prize)
+* [Пример генерации признаков для этого же соревнования](https://www.kaggle.com/nikunjm88/creating-additional-features)
